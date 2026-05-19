@@ -55,12 +55,12 @@ I like systems that feel simple on the surface and solid underneath.
 ## Tech & Interests
 
 <p>
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Design-Product%20Thinking-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-UX%20%26%20Systems-0F766E?style=flat-square" />
-  <img src="https://img.shields.io/badge/Mindset-Build%20Ship%20Improve-F59E0B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Language-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-APIs%20%26%20Services-0f172a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Architecture-134e4a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Performance-1d4ed8?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Automation-7c3aed?style=flat-square" />
+  <img src="https://img.shields.io/badge/Mindset-Simple%20and%20Reliable-f59e0b?style=flat-square" />
 </p>
 
 ---
