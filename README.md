@@ -8,7 +8,7 @@
   <a href="https://github.com/egozhuk">
     <img src="https://img.shields.io/badge/GitHub-egozhuk-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="https://t.me/egozhuk">
+  <a href="https://t.me/egor_zhukov_04">
     <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:egorvzhukov@gmail.com">
@@ -78,6 +78,6 @@ I like systems that feel simple on the surface and solid underneath.
 
 <p>
   <a href="https://github.com/egozhuk">GitHub</a> •
-  <a href="https://t.me/egozhuk">Telegram</a> •
+  <a href="https://t.me/egor_zhukov_04">Telegram</a> •
   <a href="mailto:egorvzhukov@gmail.com">Email</a>
 </p>
